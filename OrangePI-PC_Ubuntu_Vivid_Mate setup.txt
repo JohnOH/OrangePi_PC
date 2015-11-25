@@ -530,4 +530,9 @@ else
 fi
 ----------------------------------
 
+john@OrangePI:~$ free
+             total       used       free     shared    buffers     cached
+Mem:       1026964     215512     811452      17132      15872     104264
+-/+ buffers/cache:      95376     931588
+Swap:            0          0          0
 
